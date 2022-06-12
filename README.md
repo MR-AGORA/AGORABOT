@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-<b> 『ɅႺΟɌɅBΟT』 </b>
+<b> 『ɅႺ⭕ɌɅ B⭕T』 </b>
 </h1>
 
 <h6 align="center">
