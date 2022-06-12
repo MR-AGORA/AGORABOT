@@ -1,6 +1,6 @@
 {
-  "name": "LEGENDBOT",
-  "description": "Made with Love And By Python Language With Hardwork... By @LegendBoy_XD❤ ",
+  "name": "AGORABOT",
+  "description": "Made with Love And By Python Language With Hardwork... By @MR_AGORA ❤ ",
   "logo": "https://telegra.ph/file/7aca8e594e14f51f0ce14.jpg",
   "keywords": [
     "telegram",
@@ -10,9 +10,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-AI/LEGENDBOT/",
-  "website": "https://github.com/LEGEND-AI/LEGENDBOT/",
-  "success_url": "https://t.me/Legend_K_Userbot",
+  "repository": "https://github.com/MR-AGORA/AGORABOT/",
+  "website": "https://github.com/MR-AGORA/AGORABOT/",
+  "success_url": "https://t.me/TEAM_AGORA",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -20,7 +20,7 @@
     },
     "ALIVE_NAME": {
       "description": "give your name",
-      "value": ""
+      "value": "MR AGORA"
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
@@ -55,7 +55,7 @@
     },
     "SPAM": {
       "description": "Required to Add Plugin Of Assistant Spam Bot (ON/OFF)",
-      "value": "",
+      "value": "ON",
       "required": false
     },
     "APP_NAME": {
